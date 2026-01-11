@@ -1,4 +1,4 @@
-# Spreadsheet Translator
+# Babel for Spreadsheets
 
 A proof of concept for Babel to test the feasibility of efficient spreadsheet translation with babel like context preservation through pre-analysis.
 
